@@ -1,0 +1,8 @@
+name: "actions.create-release"
+description: "create release by using changeset without publishing to npm"
+branding:
+  icon: box
+  color: green
+runs:
+  using: "node12"
+  main: "./dist/min/index.js"
