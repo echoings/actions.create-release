@@ -1,6 +1,6 @@
 # actions.create-release
 
-A [GitHub Action](https://github.com/features/actions) to create release by using changeset without publishing to npm
+A [GitHub Action](https://github.com/features/actions) to create release by using changeset without publishing to npm, codes are from [changeset_demo](https://raw.githubusercontent.com/chaitanyadeorukhkar/changeset_demo/master/scripts/universe/create-release.js)
 
 ## Usage
 
